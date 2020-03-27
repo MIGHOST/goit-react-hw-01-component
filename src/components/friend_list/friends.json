@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://66.media.tumblr.com/a317f13cfe5cc4b6c8b0bee3e8b5f16d/dd17da76f07b3eb2-c6/s128x128u_c1/49b7b8f43dfddc2169a579def7a62f25991f21eb.jpg",
+    "name": "Kara",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://avatarfiles.alphacoders.com/218/218445.jpg",
+    "name": "Kid",
+    "isOnline": true,
+    "id": 1137
+  },
+  {
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/10.5.17CarlWeathersByLuigiNovi12.jpg/440px-10.5.17CarlWeathersByLuigiNovi12.jpg",
+    "name": "Greef",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://geekster.ru/wp-content/uploads/2019/03/6Jag24goSA8-e1553277918577-600x753.jpg",
+    "name": "IG-11",
+    "isOnline": false,
+    "id": 1714
+  },
+  {
+    "avatar": "https://lumiere-a.akamaihd.net/v1/images/kuiil-main-2_45d75406.jpeg?region=284%2C0%2C720%2C720&width=320",
+    "name": "Kuiil",
+    "isOnline": false,
+    "id": 1284
+  }
+]
