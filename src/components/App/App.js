@@ -1,19 +1,19 @@
 import React from 'react';
-import Profile from "../social_profile/profile";
-import Statistics from "../statistics/statistic";
-import FriendList from "../friend_list/FriendList";
-import TransactionHistory from "../transaction_history/transactions"
+import SocialProfile from "../SocialProfile/SocialProfile";
+import Statistics from "../Statistics/Statistics";
+import FriendList from "../FriendList/FriendList";
+import TransactionHistory from "../TransactionHistory/TransactionHistory"
 import './App.css';
-import user from "../social_profile/user.json";
-import stats from "../statistics/statistical-data.json";
-import friends from "../friend_list/friends.json";
-import transactions from "../transaction_history/transactions.json"
+import user from "../../database/user.json";
+import stats from "../../database/statistical-data.json";
+import friends from "../../database/friends.json";
+import transactions from "../../database/transactions.json"
 
 
 
 
 function App() {
-  return ( <div className = "App" >     <Profile 
+  return ( <div className = "App" >     <SocialProfile 
     name = {user.name}
     tag = {user.tag}
     location = {user.location}
